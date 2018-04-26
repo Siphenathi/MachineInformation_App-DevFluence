@@ -1,0 +1,56 @@
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.engine.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\Mono.Cecil.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineinformationApp.Tests.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineinformationApp.Tests.pdb
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineInformationApp.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.framework.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineInformationApp.pdb
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.framework.xml
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.csproj.CopyComplete
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.pdb
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.engine.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\Mono.Cecil.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineinformationApp.Tests.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineinformationApp.Tests.pdb
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineInformationApp.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineInformationApp.pdb
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.engine.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\Mono.Cecil.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineinformationApp.Tests.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineinformationApp.Tests.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineInformationApp.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.framework.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineInformationApp.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\nunit.framework.xml
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.csproj.CopyComplete
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\obj\Debug\MachineinformationApp.Tests.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineInformationConsole.exe
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\CommandLine.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\System.Management.Automation.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineInformationConsole.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\MachineInformationConsole.exe.config
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineinformationApp.Tests\bin\Debug\CommandLine.xml

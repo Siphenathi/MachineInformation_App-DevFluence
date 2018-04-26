@@ -1,0 +1,42 @@
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationConsole.exe.config
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationConsole.exe
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationConsole.pdb
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.csproj.CoreCompileInputs.cache
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.exe
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.pdb
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\bin\Debug\CommandLine.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\bin\Debug\System.Console.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\bin\Debug\CommandLine.xml
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.csprojResolveAssemblyReference.cache
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.csproj.CopyComplete
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationApp.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationApp.pdb
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationConsole.exe.config
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationConsole.exe
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationConsole.pdb
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\bin\Debug\CommandLine.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationApp.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\bin\Debug\System.Console.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationApp.pdb
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\bin\Debug\CommandLine.xml
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.csprojResolveAssemblyReference.cache
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.csproj.CoreCompileInputs.cache
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.exe
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationConsole.exe.config
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationConsole.exe
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationConsole.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\bin\Debug\CommandLine.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationApp.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\bin\Debug\System.Console.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\bin\Debug\MachineInformationApp.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\bin\Debug\CommandLine.xml
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.csprojResolveAssemblyReference.cache
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.csproj.CoreCompileInputs.cache
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.csproj.CopyComplete
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.exe
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\obj\Debug\MachineInformationConsole.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationConsole\bin\Debug\System.Management.Automation.dll

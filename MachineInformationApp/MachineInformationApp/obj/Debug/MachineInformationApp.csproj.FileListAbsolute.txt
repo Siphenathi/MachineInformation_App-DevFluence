@@ -1,0 +1,30 @@
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationApp\bin\Debug\MachineInformationApp.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationApp\bin\Debug\MachineInformationApp.pdb
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.csproj.CoreCompileInputs.cache
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.pdb
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationApp\bin\Debug\CommandLine.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationApp\bin\Debug\System.Console.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationApp\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationApp\bin\Debug\CommandLine.xml
+C:\Users\DevFluence\source\repos\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.csproj.CopyComplete
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationApp\bin\Debug\MachineInformationApp.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationApp\bin\Debug\MachineInformationApp.pdb
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationApp\bin\Debug\CommandLine.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationApp\bin\Debug\System.Console.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationApp\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationApp\bin\Debug\CommandLine.xml
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.csproj.CoreCompileInputs.cache
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.dll
+C:\Users\Siphenathi\Documents\GitHub\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\bin\Debug\MachineInformationApp.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\bin\Debug\MachineInformationApp.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\bin\Debug\CommandLine.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\bin\Debug\System.Console.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\bin\Debug\CommandLine.xml
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.csproj.CoreCompileInputs.cache
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.csproj.CopyComplete
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.dll
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\obj\Debug\MachineInformationApp.pdb
+C:\Users\DevFluence\Desktop\updated version\MachineInformationApp\MachineInformationApp\bin\Debug\System.Management.Automation.dll
